@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.com/MaevaBrunelles/pelican-seo.svg?branch=master)](https://travis-ci.com/MaevaBrunelles/pelican-seo)
 
+> Warning: This plugin is now released on the new official Pelican plugins workspace. If you want to use it, you must install https://github.com/pelican-plugins/seo. For contributions, issues or anything else, see the [contribution part](#contributing).
+
 This plugin helps you improve your Pelican site SEO (Search Engine Optimization) to reach the top positions on search engines. To see what can do SEO for you, go directly to [Usage](#usage) section.
 
 | Author          | GitHub                            |
